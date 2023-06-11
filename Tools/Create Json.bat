@@ -1,0 +1,3 @@
+python ./dataTableParse.py
+
+pause
